@@ -1,0 +1,10 @@
+C:\Users\nicos\Desktop\cprograms\SimpleHttp\bin\release\netcoreapp2.0\SimpleHttp.deps.json
+C:\Users\nicos\Desktop\cprograms\SimpleHttp\bin\release\netcoreapp2.0\SimpleHttp.runtimeconfig.json
+C:\Users\nicos\Desktop\cprograms\SimpleHttp\bin\release\netcoreapp2.0\SimpleHttp.runtimeconfig.dev.json
+C:\Users\nicos\Desktop\cprograms\SimpleHttp\bin\release\netcoreapp2.0\SimpleHttp.dll
+C:\Users\nicos\Desktop\cprograms\SimpleHttp\bin\release\netcoreapp2.0\SimpleHttp.pdb
+C:\Users\nicos\Desktop\cprograms\SimpleHttp\obj\release\netcoreapp2.0\SimpleHttp.csproj.CoreCompileInputs.cache
+C:\Users\nicos\Desktop\cprograms\SimpleHttp\obj\release\netcoreapp2.0\SimpleHttp.AssemblyInfoInputs.cache
+C:\Users\nicos\Desktop\cprograms\SimpleHttp\obj\release\netcoreapp2.0\SimpleHttp.AssemblyInfo.cs
+C:\Users\nicos\Desktop\cprograms\SimpleHttp\obj\release\netcoreapp2.0\SimpleHttp.dll
+C:\Users\nicos\Desktop\cprograms\SimpleHttp\obj\release\netcoreapp2.0\SimpleHttp.pdb

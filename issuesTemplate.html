@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+		<title>C# HTTP</title>
+		<style>
+			body 				{ font-family: sans-serif; text-align: center; } 
+			table				{ border: 3px solid #F2F2F2; width: 100%; text-align: left; } 
+			td 					{ padding: 10px; } 
+			td:nth-child(1)    	{ width: 5%; text-align: center;} 
+			td:nth-child(2)    	{ width: 85%;} 
+			tr:nth-child(even) 	{ background: #F2F2F2} 
+			tr:nth-child(odd)  	{ background: #FFF} 
+			textarea			{ width: 100%; }
+		</style>
+	</head>
+	<body>
+		<table>
+			<p>Issues:</p>
+			<tbody>
+<ISSUES_SECTION>
+			</tbody>
+		</table>
+		<br>
+		<form action="/" method="post">
+		  <label for="issue">New Issue:</label><br>
+		  <textarea name="issue" cols="50" rows="10"></textarea><br>
+		  <input value="Submit" type="submit">
+		</form>
+	</body>
+</html>
