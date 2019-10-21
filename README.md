@@ -17,7 +17,7 @@ Project 2 for CSCI 420: Computer Networking class at Houghton College, Spring 20
 "Perhaps the most challenging aspect of this project is handling concurrency of multiple clients visiting the website at the same time. Your solution to this will depend on the language you choose, but will require that you properly synchronize access to shared data. The easiest approach may be to use a single global lock which you will acquire before reading or write your issue data structure and release after."
 
 ## Project Submission
-I chose to write my version in C#, basing my project on the code presented by the brilliant David Jeske at [CodeProject](https://www.codeproject.com/Articles/137979/Simple-HTTP-Server-in-C).
+I chose to author my version in C#, basing my project on the code presented by the brilliant David Jeske at [CodeProject](https://www.codeproject.com/Articles/137979/Simple-HTTP-Server-in-C).
 
 ### Building:
 
@@ -47,4 +47,4 @@ _port defaults to 8080._
 ### Optional:
 
 The server was originally designed to use alternate html templates, though full funtionality is untested.  
-Since this project is specifically an issue tracker, it will supply the tracking functionality wherever "<ISSUES_SECTION>" is included in the HTML code.
+Since this project is specifically an issue tracker, it will supply the tracking functionality wherever `<ISSUES_SECTION>` is included in the HTML code.
