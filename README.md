@@ -1,5 +1,5 @@
 # Simple HTTP Server in C#
-Project for CSCI 420: Computer Networking class at Houghton College, Spring 2018.
+Project 2 for CSCI 420: Computer Networking class at Houghton College, Spring 2018.
 
 ## Project Scope
 "In this project you will explore the HTTP protocol by making an HTTP server directly with TCP in the language of your choice subject to my approval. Java, C#, python, C++, Rust, Scala, F#, and Haskell are all pre-approved. Your language will almost certainly have a library for creating an HTTP server directly, but we will not be using that. Instead you will create a program that accepts TCP connections and parses HTTP requests from clients that connect. You will have to handle GET, HEAD, and POST requests to successfully implement your server.
